@@ -1,5 +1,5 @@
 .home-3{
-    background-color: #148900;
+    background-color: #01796f;
 }
 
 .container.md-container{
@@ -70,7 +70,7 @@
 
 .row .col-lg-3 a:hover{
     background-color: #FAFF00;
-    color: #148900;
+    color: #01796f;
     border: 2px solid #FAFF00;
 }
 
@@ -126,7 +126,7 @@
 
     .mobile-menu .mean-nav .col-lg-3.scrollToLink a:hover{
         background-color: #FAFF00;
-        color: #148900;
+        color: #01796f;
     }
 
     #hide-on-small-screen{
