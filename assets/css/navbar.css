@@ -70,7 +70,7 @@
 
 .row .col-lg-3 a:hover{
     background-color: #FAFF00;
-    color: #050B31;
+    color: #148900;
     border: 2px solid #FAFF00;
 }
 
@@ -126,7 +126,7 @@
 
     .mobile-menu .mean-nav .col-lg-3.scrollToLink a:hover{
         background-color: #FAFF00;
-        color: #050B31;
+        color: #148900;
     }
 
     #hide-on-small-screen{
