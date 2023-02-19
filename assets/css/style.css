@@ -1,3 +1,35 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@jabin21 
+jabin21
+/
+ZompaPlumbing-Heating
+Public
+generated from AlexMotaco/EIJ-Construction
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+ZompaPlumbing-Heating/assets/css/style.css
+@jabin21
+jabin21 Initial commit
+Latest commit f5124d1 5 minutes ago
+ History
+ 1 contributor
+3305 lines (2736 sloc)  52.1 KB
+
 /*-----------------------------
     CSS INDEX
 	===================
@@ -155,7 +187,7 @@
 
 .header-left-icon a:hover {
     background: #fff;
-    color: #050B31;
+    color: #00511c;
 }
 
 .headers-left {
@@ -3303,3 +3335,18 @@ a.next-btn {
     background: #050B31;
     color: #fff;
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+ZompaPlumbing-Heating/style.css at main · jabin21/ZompaPlumbing-Heating
