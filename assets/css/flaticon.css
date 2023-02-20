@@ -83,13 +83,13 @@
 	}
 
 	.flaticon-bucket-icon:before {
-	    image: url(assets/img/flaticon-bucket-icon.png";
+	    "assets/img/flaticon-bucket-icon.svg";
 	}
 
 	.flaticon-toilet-icon:before {
-	    content: "...assets/img/flaticon-toilet-icon.svg";
+	    "assets/img/flaticon-toilet-icon.svg";
 	}
 	
 	.flaticon-tub-icon:before {
-	    content: "...assets/img/flaticon-tub-icon.svg";
+	    "assets/img/flaticon-tub-icon.svg";
 	}
