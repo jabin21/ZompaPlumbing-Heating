@@ -81,3 +81,7 @@
 	.flaticon-plus-icon:before {
 	    content: "\f10d";
 	}
+
+	.flaticon-bucket-icon:before {
+	    content: "flaticon-bucket-icon.jpg";
+	}
