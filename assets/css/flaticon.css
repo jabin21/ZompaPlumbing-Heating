@@ -83,7 +83,7 @@
 	}
 
 	.flaticon-bucket-icon:before {
-	    content: "...assets/img/flaticon-bucket-icon.svg";
+	    background-image: url(assets/img/flaticon-bucket-icon.svg";
 	}
 
 	.flaticon-toilet-icon:before {
