@@ -567,7 +567,7 @@ Home 4 Header Style
 .slider-content a {
     border: 0px solid #ffffff;
     border-radius: 25px;
-    color: #ffffff;
+    color: #000000;
     background-color: #ffe7ab;
     display: inline-block;
     font-family: montserrat;
