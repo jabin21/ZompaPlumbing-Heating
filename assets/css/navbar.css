@@ -69,9 +69,9 @@
 }
 
 .row .col-lg-3 a:hover{
-    background-color: #188bf68c;
+    background-color: #188bf6;
     color: #ffffff;
-    border: 2px solid #FAFF00;
+    border: 2px solid #188bf68c;
 }
 
 .mean-container .mean-nav{
